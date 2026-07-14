@@ -1,5 +1,5 @@
 export default function Titulo(){
     return (
-        <div>ola mundo!</div>
+        <h1>Turma Front-end</h1>
     )
 }
