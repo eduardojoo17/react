@@ -19,7 +19,7 @@ export default function Home() {
       
       <Header/>
       
-      <div className="flex items-start gap-1">
+      <div className="flex ">
         <CartaoPerfil/>
         <CartaoPerfil/>
         <CartaoPerfil/>
