@@ -19,8 +19,6 @@ return(
             <Idade anos={20}/>
             <Status status/>
             <Caixa>embrulho</Caixa>
-
-
             
         </div>
     );
